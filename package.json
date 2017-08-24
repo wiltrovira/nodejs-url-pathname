@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-url-pathname",
+  "version": "0.1.0",
+  "description": "hola mundo nodejs url parse pathname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/nodejs-url-pathname.git"
+  },
+  "keywords": [
+    "hola",
+    "mundo",
+    "nodejs",
+    "url",
+    "parse",
+    "pathname"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/nodejs-url-pathname/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/nodejs-url-pathname#readme"
+}
